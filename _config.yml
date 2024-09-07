@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Honglin Lin (林泓霖)"
   pronouns         : # example: "she/her"  
-  bio              : "a forth year undergraduate student from BUPT"
+  bio              : "undergraduate in BUPT"
   location         : "Shanghai, China"
   employer         : "Beijing University of Posts and Telecommunications"
-  uri              : https://LHL3341.github.io/ # URL
+  uri              : #https://LHL3341.github.io/ # URL
   email            : "lhl3341@bupt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=-1aJRrAAAAAJ"
+  
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -44,6 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/LHL3341/"
+
+  googlescholar    : "https://scholar.google.com/citations?user=-1aJRrAAAAAJ"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
