@@ -16,7 +16,9 @@ I'm Honglin Lin, a senior undergraduate at Beijing University of Posts and Telec
 My research interests are mainly in Multimodal Language Models.
 
 # 📝 Publications
-(† Corresponding Authors)
+
 `ACL 2024` [ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions](https://aclanthology.org/2024.findings-acl.961)
 
 **Honglin Lin**, Siyu Li, Guoshun Nan†, Chaoyue Tang, Xueting Wang, Jingxin Xu, Rong Yankai, Zhouzhili Zhouzhili, Yutong Gao, Qimei Cui, Xiaofeng Tao
+
+(† Corresponding Authors)
