@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Honglin Lin (林泓霖)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Honglin Lin"
 description              : &description "Undergraduate Student"
