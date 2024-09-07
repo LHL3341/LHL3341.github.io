@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Honglin Lin (林泓霖)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Honglin Lin"
+description              : &description "Undergraduate Student"
+url                      : https://LHL3341.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "LHL3341/LHL3341.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Honglin Lin (林泓霖)"
   pronouns         : # example: "she/her"  
-  bio              : "undergraduate in BUPT"
+  bio              : "Undergraduate in BUPT"
   location         : "Shanghai, China"
-  employer         : "Beijing University of Posts and Telecommunications"
+  employer         : 
   uri              : #https://LHL3341.github.io/ # URL
   email            : "lhl3341@bupt.edu.cn" 
 
@@ -158,6 +158,8 @@ include:
   - _pages
   - files
 exclude:
+  - docs
+  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
