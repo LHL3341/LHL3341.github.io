@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Honglin Lin (林泓霖)"
 author_profile: true
 redirect_from: 
   - /about/
