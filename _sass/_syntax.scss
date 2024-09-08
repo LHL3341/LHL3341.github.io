@@ -34,6 +34,10 @@ div.highlighter-rouge, figure.highlight {
   }
 }
 
+
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+
 .highlighter-rouge{
   background-color: #03228d;
   color: white;
@@ -43,10 +47,6 @@ div.highlighter-rouge, figure.highlight {
   border: 0px solid $border-color;
   border-radius: 0.2;
 }
-
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
-
 
 /*
    Solarized Light
