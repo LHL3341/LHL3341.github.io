@@ -190,7 +190,7 @@ exclude:
   - README
   - tmp
   - vendor
-  - assets
+  - assets`
 keep_files:
   - .git
   - .svn
