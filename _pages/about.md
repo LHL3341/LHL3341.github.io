@@ -12,7 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Honglin Lin, a senior undergraduate at Beijing University of Posts and Telecommunications (BUPT). Currently, I am a research intern at [Shanghai AI Laboratory](https://opendatalab.com/home).
+I'm Honglin Lin, a senior undergraduate at Beijing University of Posts and Telecommunications (BUPT). Currently, I am a research intern at Shanghai AI Laboratory.
 
 My research interests are mainly in Multimodal Language Models.
 
